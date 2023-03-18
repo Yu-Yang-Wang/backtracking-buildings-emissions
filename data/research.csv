@@ -1,5 +1,4 @@
-*Template - reference and use as needed,,,FY2006 Energy Usages,,,
-Building Code,Address,Property Type,E,G,O,Building Gross Footage
+Building Code,Address,Property Type,E (kWh),G(therms),O(gallon),Building Gross Footage
 581,2 Cummington Mall,Research,1486320.00,42183.00,0.00,59825.75
 582,30-38 Cummington Street,Research,1309308.00,43468.00,5531.00,36466.44
 587,42-44 Cummington Street,Research,3800070.00,106247.00,0.00,101335.67
